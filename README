@@ -18,6 +18,8 @@ Result will display in terminal
 
 Write data in 'Natural_Join_file1', 'Natural_Join_file2' files. 
 
+First and third columns in Natural_Join_file1 compare with second and third columns in Natural_Join_file2.
+
 Print command:
 
     $ python Natural_Join.py
@@ -28,6 +30,8 @@ Result will display in terminal
                              3. Outer Join program
 
 Write data in 'Outer_Join_file1', 'Outer_Join_file2' files. 
+
+First and third columns in Natural_Join_file1 compare with second and third columns in Natural_Join_file2.
 
 Print command:
 
