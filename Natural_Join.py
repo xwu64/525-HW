@@ -16,8 +16,9 @@ while 1:
         file2_line = file2_line[:len(file2_line) - 1]
         file2_line = file2_line.split(' ')
         if file1_line[0] == file2_line[1] and file1_line[2] == file2_line[2]:
-            file1_line.append(file2_line[0])
-            file1_line.append(file2_line[3])
-            print file1_line
+            outline = file1_line[:]
+            outline.append(file2_line[0])
+            outline.append(file2_line[3])
+            print outline
 
 
