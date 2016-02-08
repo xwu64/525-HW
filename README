@@ -1,7 +1,39 @@
-Write data in 'file1', 'file2' files. 
+=================================================================================
+=                            Document for Homework 1                            =
+=================================================================================
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                             1. Cartesian-Product program
+
+Write data in 'Cartesian-Product_file1', 'Cartesian-Product_file2' files. 
 
 Print command:
 
     $ python Cartesian-Product.py
 
 Result will display in terminal
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                             2. Natural Join program
+
+Write data in 'Natural_Join_file1', 'Natural_Join_file2' files. 
+
+Print command:
+
+    $ python Natural_Join.py
+
+Result will display in terminal
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                             3. Outer Join program
+
+Write data in 'Outer_Join_file1', 'Outer_Join_file2' files. 
+
+Print command:
+
+    $ python Outer_Join.py
+
+Result will display in terminal
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

@@ -1,10 +1,10 @@
-file1_obj = open('file1', 'r')
+file1_obj = open('Cartesian-Product_file1', 'r')
 
 while 1:
     file1_line = file1_obj.readline()
     if len(file1_line) == 0:
         break
-    file2_obj = open('file2', 'r')
+    file2_obj = open('Cartesian-Product_file2', 'r')
     while 1:
         file2_line = file2_obj.readline()
         if len(file2_line) == 0:
